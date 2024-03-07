@@ -23,7 +23,8 @@ export default function App() {
 // for start the json server to get the data
 // ------------------------------------------
 
-// json-server --watch --port 4000 ./api/info.json
+// json-server --watch --port 4000 ./api/info.json -> this line to start json server
+
 // --watch/-w can be omitted, JSON Server 1+ watches for file changes by default
 // JSON Server started on PORT :4000
 // Press CTRL-C to stop
